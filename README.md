@@ -1,1 +1,1 @@
-# RFID-and-Fingerprint-lock-sensor
+Integrated RFID sensor and Fingerprint sensor into a locking system and also dvelpoed the physical locking mechanism which helped in achieving a unified system which unlocks with any one of the mentioned methods.
